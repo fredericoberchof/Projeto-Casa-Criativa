@@ -35,11 +35,11 @@ $ npm start
 # Layout
 
 
-![Tela inicial](https://github.com/fredericoberchof/Projeto-Casa-Criativa/blob/master/Captura%20de%20Tela%202020-08-12%20às%2015.08.26.png)
+![Tela inicial](https://github.com/fredericoberchof/Projeto-Casa-Criativa/blob/master/public/Print%20idea.png)
 
-![Tela de ideias](https://github.com/fredericoberchof/Projeto-Casa-Criativa/blob/master/Captura%20de%20Tela%202020-08-12%20às%2015.07.14.png)
+![Tela de ideias](https://github.com/fredericoberchof/Projeto-Casa-Criativa/blob/master/public/Print%20idea%202.png)
 
-![Adicionar novas ideias](https://github.com/fredericoberchof/Projeto-Casa-Criativa/blob/master/Captura%20de%20Tela%202020-08-12%20às%2015.08.59.png)
+![Adicionar novas ideias](https://github.com/fredericoberchof/Projeto-Casa-Criativa/blob/master/public/Print%20add%20ideas.png)
 
 ## Contact
 
