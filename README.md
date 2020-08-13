@@ -29,7 +29,7 @@ $ cd Casa-Criativa
 $ npm install
 
  Run the Casa-Criativa
-$ npm start
+$ npm run dev
 ```
 
 # Layout
